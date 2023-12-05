@@ -1,3 +1,4 @@
 [submodule "cyright"]
 	path = cyright
-	url = https://github.com/andrejmuhic/cyright
+	url = https://github.com/andrejmuhic/cyright.git
+	branch = am/cyright_cpdef
